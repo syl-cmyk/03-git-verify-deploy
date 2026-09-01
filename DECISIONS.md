@@ -9,4 +9,4 @@ Answer it in two or three sentences after the live page is verified, then commit
 What check did you run on the live page, and what would have made that check fail?
 A check that could not have failed is not a check.
 
-<your answer here>
+After refreshing, I saw that the site no longer showed a 404, and my own content was displayed.
